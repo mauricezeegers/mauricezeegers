@@ -35,8 +35,7 @@ Here you will find links to research projects, academic papers, datasets, protoc
 
 ## [Meta-Research](https://github.com/mauricezeegers/meta-research)
 
-- Responsible Publishing  
-- MetaScience  
+- Publishing & Biometrics  
 - Methods Development & Standards  
-- Responsible Research & Research Integrity  
+- Responsible Research & Reproducibility
 - Systematic Literature Reviews & Evidence Synthesis
