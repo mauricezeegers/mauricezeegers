@@ -1,20 +1,46 @@
-## Epidemiologic Research for Better Health Decisions 👋
+# Epidemiological Research for Better Health Decisions
 
-This is the central academic repository of [Prof. dr. Maurice Zeegers]([url](https://www.maastrichtuniversity.nl/mp-zeegers)), a professor of Epidemiology at Maastricht University, the Netherlands. 
-The repository is organized by his two researchlines: “Observational Studies” and “MetaResearch”. Here you will find links to research projects, academic papers, datasets, protocols, and code, where applicable. 
+**Quality above Speed | Science above Ideology**
 
-asdfadsfasdf
-<!--
-**mauricezeegers/mauricezeegers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Prof. dr. Maurice Zeegers**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is the central academic repository of  
+**[Prof. dr. Maurice Zeegers](https://www.maastrichtuniversity.nl/mp-zeegers)**,  
+Professor of Epidemiology at Maastricht University, the Netherlands.
+
+The repository is organized around two research lines:
+
+- **Observational Studies**
+- **Meta-Research**
+
+Here you will find links to research projects, academic papers, datasets, protocols, and code, where applicable.
+
+---
+
+## Observational Studies
+
+### Disease Areas
+- Oncology  
+- Cardiovascular & Metabolic  
+- Neurology & Psychiatry  
+- Infectious Diseases  
+
+### Research Themes
+- Patient-Centered Outcomes  
+- Genetics  
+- Genomics  
+- Therapeutics  
+- Nutrition  
+- Environment  
+
+---
+
+## Meta-Research
+
+- Responsible Publishing  
+- MetaScience  
+- Methods Development & Standards  
+- Responsible Research & Research Integrity  
+- Systematic Literature Reviews & Evidence Synthesis
