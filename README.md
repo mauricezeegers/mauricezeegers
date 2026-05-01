@@ -1,6 +1,6 @@
 ## Epidemiologic Research for Better Health Decisions 👋
 
-This is the central academic repository of Prof. dr. Maurice Zeegers, a professor of Epidemiology at Maastricht University, the Netherlands. 
+This is the central academic repository of [Prof. dr. Maurice Zeegers]([url](https://www.maastrichtuniversity.nl/mp-zeegers)), a professor of Epidemiology at Maastricht University, the Netherlands. 
 The repository is organized by his two researchlines: “Observational Studies” and “MetaResearch”. Here you will find links to research projects, academic papers, datasets, protocols, and code, where applicable. 
 
 asdfadsfasdf
