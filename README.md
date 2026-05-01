@@ -18,14 +18,14 @@ Here you will find links to research projects, academic papers, datasets, protoc
 
 ## [Observational Studies](https://github.com/mauricezeegers/observational-studies)
 
-### [Disease Outcomes](https://github.com/mauricezeegers/disease-outcomes)
+### (Disease) Outcomes
 - Oncology  
 - Cardiovascular & Metabolic  
 - Neurology & Psychiatry  
 - Infectious Diseases  
 - Patient-Centered Outcomes  
 
-### [Determinants](https://github.com/mauricezeegers/determinants)
+### Determinants
 - Genetics  
 - Genomics  
 - Therapeutics  
