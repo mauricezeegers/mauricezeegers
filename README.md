@@ -16,25 +16,24 @@ Here you will find links to research projects, academic papers, datasets, protoc
 
 ---
 
-## Observational Studies
+## [Observational Studies](https://github.com/mauricezeegers/observational-studies)
 
-### Disease Areas
+### [Disease Outcomes](https://github.com/mauricezeegers/disease-outcomes)
 - Oncology  
 - Cardiovascular & Metabolic  
 - Neurology & Psychiatry  
 - Infectious Diseases  
-
-### Research Themes
 - Patient-Centered Outcomes  
+
+### [Determinants](https://github.com/mauricezeegers/determinants)
 - Genetics  
 - Genomics  
 - Therapeutics  
 - Nutrition  
 - Environment  
-
 ---
 
-## Meta-Research
+## [Meta-Research](https://github.com/mauricezeegers/meta-research)
 
 - Responsible Publishing  
 - MetaScience  
