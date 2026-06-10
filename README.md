@@ -11,7 +11,7 @@ The repository is organized around two research lines:
 - **[Observational Studies](https://github.com/mauricezeegers/observational-studies)**
 - **[Meta-Research](https://github.com/mauricezeegers/meta-research)**
 
-Here you will find links to research projects, academic papers, datasets, protocols, code (see below), and more...
+Here you will find links to research projects, websites, academic papers, datasets, protocols, code (see below), and more...
 
 ---
 
