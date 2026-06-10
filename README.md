@@ -4,8 +4,7 @@
 
 ---
 
-This is the central academic repository of **[Prof. dr. Maurice Zeegers](https://www.maastrichtuniversity.nl/mp-zeegers)**,  
-Professor of Epidemiology at Maastricht University, the Netherlands.
+This is the central academic repository of **[Prof. dr. Maurice Zeegers](https://www.maastrichtuniversity.nl/mp-zeegers)**, Professor of Epidemiology at Maastricht University, the Netherlands.
 
 The repository is organized around two research lines:
 
