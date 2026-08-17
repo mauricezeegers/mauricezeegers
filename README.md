@@ -31,11 +31,6 @@ Here you will find links to research projects, websites, academic papers, datase
 - Nutrition  
 - Environment
 
-### Applications
-- Sport Genetics 
-- Forensics  
-- Cancer Survival
-
 ---
 
 ## [Meta-Research](https://github.com/mauricezeegers/meta-research)
