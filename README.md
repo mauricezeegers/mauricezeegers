@@ -6,12 +6,12 @@
 
 This is the central academic repository of **[Prof. dr. Maurice Zeegers](https://www.maastrichtuniversity.nl/mp-zeegers)**, Professor of Epidemiology at Maastricht University, the Netherlands.
 
-The repository is organized around two research lines:
+The academic repository is organized around two research lines:
 
 - **[Observational Studies](https://github.com/mauricezeegers/observational-studies)**
 - **[Meta-Research](https://github.com/mauricezeegers/meta-research)**
 
-Here you will find links to research projects, websites, academic papers, datasets, protocols, code (see below), and more...
+Here you will find links to research projects, websites, researchers involved and academic papers
 
 ---
 
@@ -33,9 +33,5 @@ Here you will find links to research projects, websites, academic papers, datase
 
 ---
 
-## [Meta-Research](https://github.com/mauricezeegers/meta-research)
+Our code respository can be found here [MosaROR](https://github.com/MosaROR).
 
-- Publishing & Biometrics  
-- Methods Development & Standards  
-- Responsible Research & Reproducibility
-- Systematic Literature Reviews & Evidence Synthesis
