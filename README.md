@@ -38,7 +38,7 @@ Here you will find links to research projects, websites, researchers involved an
 - Publishing & Biometrics  
 - Methods Development & Standards  
 - Responsible Research & Reproducibility
-- Systematic Literature Reviews & Evidence Synthesis---
+- Systematic Literature Reviews & Evidence Synthesis
 
 ---
 
